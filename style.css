@@ -1,0 +1,440 @@
+@charset "utf-8";
+/* CSS Document */
+body {
+	padding: 0px;
+	margin: auto;
+	min-width: 1260px;
+}
+header {
+	background-image: url(_img/guitarra-portuguesa-banner-footer.png);
+	background-size: 90%;
+	background-position: center;
+	background-repeat: no-repeat;
+	background-color: #000;
+	width: 100%;
+	height: 200px;
+	padding: 0px;
+	margin: 0px;
+}
+footer {
+	background-repeat: repeat;
+	background-image: url(_img/texture.png);
+	width: 100%;
+	height: 30px;
+	padding: 0px;
+	margin: 0px;
+}
+a {
+	color: white;
+	text-align: center;
+	font-family: 'Open Sans', sans-serif;
+	text-decoration: none;
+	padding: 30px;
+	font-weight: bold;
+}
+a:hover {
+	text-decoration: underline;
+}
+#logo {
+	height: 120px;
+	width: auto;
+	padding-top: 40px;
+	margin-left: auto;
+	margin-right: auto;
+	display: block;
+}
+#buttons {
+	padding-top: 2px;
+	text-align: center;
+}
+
+#bar21 {
+	width:100%;
+	height:3px;
+	background-color:black;
+	margin-left:auto;
+	margin-right:auto;}
+
+
+#bar22 {
+	width:3px;
+	height:700px;
+	background-color:black;
+	margin-left:auto;
+	margin-right:auto;}
+	
+#bar23 {
+	width:100%;
+	height:3px;
+	background-color:black;
+	margin-left:auto;
+	margin-right:auto;}
+
+
+#antoniochainho {
+	background-color: black;
+margin-top:-175px;
+	width: 100%;
+	height: 280px;
+	padding: 0px;
+
+}
+
+
+#guitarra_historia {
+	font-family: 'Open Sans', sans-serif;
+	text-align: left;
+	width: 370px;
+	font-weight: 400;
+	margin-left: auto;
+	margin-right: auto;
+	padding-left: 440px;
+	margin-top: -07px;
+}
+#guitarra_historiatitle {
+	font-family: 'Open Sans', sans-serif;
+	text-align: left;
+	width: 370px;
+	font-weight: bold;
+	margin-left: auto;
+	margin-right: auto;
+	padding-left: 440px;
+	margin-top: -435px;
+	font-size: 22px;
+	padding-top: 60px;
+}
+
+
+
+#guitarra_portuguesa {
+	font-family: 'Open Sans', sans-serif;
+	text-align: left;
+	width: 370px;
+	font-weight: 400;
+	margin-left: auto;
+	margin-right: auto;
+	padding-right: 440px;
+	margin-top: -07px;
+}
+#guitarra_portuguesatitle {
+	font-family: 'Open Sans', sans-serif;
+	text-align: left;
+	width: 370px;
+	font-weight: bold;
+	margin-left: auto;
+	margin-right: auto;
+	padding-right: 440px;
+	margin-top: -746px;
+	font-size: 22px;
+	padding-top: 60px;
+}
+#historia_portuguesa {
+	font-family: 'Open Sans', sans-serif;
+	text-align: left;
+	width: 370px;
+	font-weight: 400;
+	margin-left: auto;
+	margin-right: auto;
+	padding-left: 440px;
+	margin-top: -07px;
+}
+#historia_portuguesatitle {
+	font-family: 'Open Sans', sans-serif;
+	text-align: left;
+	width: 370px;
+	font-weight: bold;
+	margin-left: auto;
+	margin-right: auto;
+	padding-left: 440px;
+	margin-top: -315px;
+	font-size: 22px;
+	padding-top: 60px;
+}
+#text_guitarra_portuguesa {
+	text-align: center;
+	font-family: 'Open Sans', sans-serif;
+	padding-top: -220px;
+	padding-left:200px;
+	font-weight: 400;
+	font-size: 19px;
+	display: block;
+	}
+#guitarra_metaltitle {
+	font-family: 'Open Sans', sans-serif;
+	text-align: left;
+	width: 370px;
+	font-weight: bold;
+	margin-left: auto;
+	margin-right: auto;
+	padding-right: 440px;
+	margin-top: -30px;
+	font-size: 22px;
+	padding-top: 40px;
+}
+#guitarra_metal {
+	font-family: 'Open Sans', sans-serif;
+	text-align: left;
+	width: 370px;
+	font-weight: 400;
+	margin-left: auto;
+	margin-right: auto;
+	padding-right: 440px;
+	margin-top: -07px;
+}
+#text_guitarra_portuguesa {
+	text-align: center;
+	font-family: 'Open Sans', sans-serif;
+	padding-top: -220px;
+	padding-left:200px;
+	font-weight: 400;
+	font-size: 19px;
+	display: block;
+	}
+	
+#padding{padding-top:200px;}
+#padding2{padding-top:50px;}
+
+#bar {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	padding-top: -35px;
+	height: 125%;
+	width: auto;
+	
+}
+#text {
+	text-align: center;
+	font-family: 'Open Sans', sans-serif;
+	padding-top: -20px;
+	font-weight: 400;
+	font-size: 19px;
+	display: block;
+}
+#guitarracoimbra {
+	font-family: 'Open Sans', sans-serif;
+	text-align: right;
+	width: 370px;
+	font-weight: 400;
+	margin-left: auto;
+	margin-right: auto;
+	padding-right: 440px;
+	margin-top: -12px;
+}
+#guitarracoimbratitle {
+	font-family: 'Open Sans', sans-serif;
+	text-align: right;
+	width: 370px;
+	font-weight: bold;
+	margin-left: auto;
+	margin-right: auto;
+	padding-right: 440px;
+	margin-top: -440px;
+	font-size: 22px
+}
+#guitarralisboa {
+	font-family: 'Open Sans', sans-serif;
+	text-align: left;
+	width: 370px;
+	font-weight: 400;
+	margin-left: auto;
+	margin-right: auto;
+	padding-left: 440px;
+	margin-top: -07px;
+}
+#guitarralisboatitle {
+	font-family: 'Open Sans', sans-serif;
+	text-align: left;
+	width: 370px;
+	font-weight: bold;
+	margin-left: auto;
+	margin-right: auto;
+	padding-left: 440px;
+	margin-top: -305px;
+	font-size: 22px;
+	padding-top: 60px;
+}
+#g_coimbra {
+	display: block;
+	padding-right: 200px;
+	margin-left: auto;
+	margin-right: auto;
+	width: 155px;
+	height: auto;
+}
+#g_lisboa {
+	display: block;
+	margin-top: -90px;
+	padding-left: 200px;
+	margin-left: auto;
+	margin-right: auto;
+	width: 165px;
+	height: auto;
+}
+#lastbar {
+	background: #191919; /* Old browsers */
+	background: -moz-linear-gradient(top, #191919 0%, #000000 100%); /* FF3.6+ */
+	background: -webkit-gradient(linear, left top, left bottom, color-stop(0%, #191919), color-stop(100%, #000000)); /* Chrome,Safari4+ */
+	background: -webkit-linear-gradient(top, #191919 0%, #000000 100%); /* Chrome10+,Safari5.1+ */
+	background: -o-linear-gradient(top, #191919 0%, #000000 100%); /* Opera 11.10+ */
+	background: -ms-linear-gradient(top, #191919 0%, #000000 100%); /* IE10+ */
+	background: linear-gradient(to bottom, #191919 0%, #000000 100%); /* W3C */
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#191919', endColorstr='#000000', GradientType=0 ); /* IE6-9 */
+	width: 100%;
+	height: 220px;
+	padding: 0px;
+	margin-top: 50px;
+}
+#text2 {
+	text-align: left;
+	font-family: 'Open Sans', sans-serif;
+	font-weight: 400;
+	font-size: 13px;
+	display: block;
+	color: white;
+	width: 400px;
+	margin-left: auto;
+	margin-right: auto;
+	padding-right: 500px;
+}
+#text3 {
+	text-align: left;
+	font-family: 'Open Sans', sans-serif;
+	font-weight: 400;
+	font-size: 13px;
+	display: block;
+	color: white;
+	width: 400px;
+	margin-left: auto;
+	margin-right: auto;
+	padding-left: 450px;
+	margin-top: -218px;
+}
+#terms {
+	height: 1px;
+	font-size: 12px;
+	background: #717171;
+	border-bottom: 1px solid #FFF;
+	width: 1200px;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 50px;
+}
+#antoniochainhoimage {
+	width: auto;
+	height: 100%;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	padding-right: 400px;
+}
+#tro {
+	margin-left: auto;
+	margin-right: auto;
+	display: block;
+	margin-top: 10px;
+	padding-left: 600px;
+}
+#sound {
+	margin-left: auto;
+	margin-right: auto;
+	display: block;
+	margin-top: -10px;
+	padding-left: 600px;
+	width: auto;
+	height: 70px;
+}
+#titlechainho {
+	font-family: 'Open Sans', sans-serif;
+	color:white;
+	margin-left: auto;
+	margin-right: auto;
+	display: block;
+	margin-top: -250px;
+	padding-left: 730px;
+	  line-height: 90%;
+	text-align:left;
+	font-size:34px;
+	font-weight:bold;
+	max-width:600px;
+
+}
+
+#title2chainho {
+	font-family: 'Open Sans', sans-serif;
+	color:white;
+	margin-left: auto;
+	margin-right: auto;
+	display: block;
+	margin-top: 5px;
+	padding-left: 730px;
+	  line-height: 90%;
+	text-align:left;
+	font-size:18px;
+	font-weight:bold;
+	max-width:600px;
+
+}
+
+#reference {
+	margin-left: auto;
+	margin-right: auto;
+	display: block;
+	margin-top: -25px;
+	padding-left: 600px;
+	width: auto;
+	height: 16px;
+}
+
+#guitar {display:block;margin-left:auto;margin-right:auto;padding-left:930px;margin-top:-190px;padding-bottom:4px;width:auto;height:200px;}
+
+#guitars {display:block;margin-left:auto;margin-right:auto;padding-left:430px;width:auto;height:200px;margin-top:-22px;}
+
+#sobre_text {
+	font-family: 'Open Sans', sans-serif;
+	text-align: center;
+	width:1070px;
+	font-weight: 400;
+	margin-left: auto;
+	margin-right: auto;
+color:white;
+	margin-top: -07px;
+}
+#sobre_text_title {
+	font-family: 'Open Sans', sans-serif;
+	text-align: center;
+	width: 470px;
+	font-weight: bold;
+	margin-left: auto;
+	margin-right: auto;
+color:white;
+
+	font-size: 22px;
+	padding-top: 20px;
+}
+
+#video {width:100%;margin-left:auto;margin:right:auto;display:block;height:600px;autoplay:autoplay;loop:loop;}
+
+#sucessos {
+	font-family: 'Open Sans', sans-serif;
+	text-align: center;
+	width:170px;
+	font-weight: 400;
+	margin-left: auto;
+	margin-right: auto;
+color:black;
+
+	
+}
+#sucessos_title {
+	font-family: 'Open Sans', sans-serif;
+	text-align: center;
+	width: 400px;
+	font-weight: bold;
+	margin-left: auto;
+	margin-right: auto;
+color:black;
+
+	font-size: 22px;
+
+}
